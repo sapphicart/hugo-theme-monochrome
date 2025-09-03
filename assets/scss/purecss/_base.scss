@@ -155,6 +155,15 @@ small {
  * all browsers.
  */
 
+.simple-code__title {
+  font-family: monospace;
+  font-size: 1rem;
+  background-color: #272822;
+  padding: 0.5rem;
+  color: #dddddd;
+  border-radius: 8px;
+}
+
 sub, sup {
   font-size: 75%;
   line-height: 0;
